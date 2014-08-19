@@ -4,7 +4,7 @@
         Plugin Name: jQuery Maximage
 		Description: This Plugin brings the jQuery Maximage 2 Plugin from Aaron Vanderzwan to Wordpress.
         Plugin URI: http://wordpress.jonasspaller.de/plugins/jquery-maximage
-        Version: 2.0.2
+        Version: 2.0.3
         Author: Jonas Spaller
         Author URI: http://www.jonasspaller.de
 		License: GPLv3
