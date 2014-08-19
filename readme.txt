@@ -33,7 +33,7 @@ There are no F.A.Q. yet.
 
 == Changelog ==
 
-I will provide one.
+Bugfix: if background image is already set, the Plugin will override the CSS property to background-image: none;
 
 == Upgrade Notice ==
 

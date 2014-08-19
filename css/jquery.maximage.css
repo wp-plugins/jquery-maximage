@@ -1,5 +1,6 @@
 body {
 	background-color: transparent !important;
+	background-image: none !important;
 }
 
 .mc-hide-scrolls {
