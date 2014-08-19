@@ -1,0 +1,52 @@
+label {
+    display: block;
+    margin-top: 15px;
+}
+
+.upload-input {
+	background: #fbfbfb !important;
+    max-width: 500px;
+    line-height: 25px;
+    width: 100%;
+}
+
+.upload-button.button-secondary {
+    height: 34px;
+}
+
+.input-container {
+	background: #fff;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+	margin: 0 auto;
+	margin-bottom: 30px;
+	max-width: 700px;
+	overflow: hidden;
+	padding: 20px;
+}
+
+.current-pic {
+	margin-top: 15px;
+	position: relative;
+}
+
+.current-pic p {
+	background: rgba(0, 0, 0, .5);
+	bottom: 10px;
+	color: #fff;
+	font-weight: bold;
+	padding: 10px;
+	position: absolute;
+}
+
+.current-pic img {
+	max-height: 200px;
+}
+
+a.red {
+	color: #a00;
+	float: right;
+}
+
+a.red:hover {
+	color: #f00;
+}
