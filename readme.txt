@@ -41,5 +41,5 @@ Nothing to notice here...
 
 == Screenshots ==
 
-1. Description Here
-2. Another Desc
+1. The main overview of the slideshow
+2. jQuery Maximage works with the already implemented WP Media Uploader
