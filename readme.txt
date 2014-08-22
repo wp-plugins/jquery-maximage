@@ -18,6 +18,12 @@ jQuery Maximage uses the Maximage 2 Plugin for jQuery from Aaron Vanderzwan with
 
 Also it's fully translatable.
 
+= Why should I use jQuery Maximage? =
+
+When I searched for a working background slideshow, which is very simple but working, I only found some Slideshows which are way to overpowered.
+You want just a simple slideshow, but you get tons of confusing options and your client is simply overwhelmed. So I decided to write my own WP Plugin to offer a simple and easy-to-use background slideshow.
+The work progress on this plugin will continue, but i will make sure to keep it simple.
+
 == Installation ==
 
 1. Upload the plugin (via zip - file or directly from WordPress)
