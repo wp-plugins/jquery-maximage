@@ -41,5 +41,5 @@ Nothing to notice here...
 
 == Screenshots ==
 
-/assets/screenshot-1.jpg
-/assets/screenshot-2.jpgg
+1. Description Here
+2. Another Desc
