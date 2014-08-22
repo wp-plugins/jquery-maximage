@@ -4,7 +4,7 @@ Donate link:
 Tags: background, slideshow, design, simple, pictures, gallery, responsive, fullscreen, jquery, maximage
 Requires at least: 3.0.0
 Tested up to: 3.9.2
-Stable tag: 2.0.2
+Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -33,7 +33,7 @@ There are no F.A.Q. yet.
 
 == Changelog ==
 
-I will provide one.
+Bugfix: if background image is already set, the Plugin will override the CSS property to background-image: none;
 
 == Upgrade Notice ==
 
@@ -41,4 +41,5 @@ Nothing to notice here...
 
 == Screenshots ==
 
-They'll come.
+1. Description Here
+2. Another Desc
