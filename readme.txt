@@ -41,4 +41,5 @@ Nothing to notice here...
 
 == Screenshots ==
 
-They'll come.
+/assets/screenshot-1.jpg
+/assets/screenshot-2.jpgg
