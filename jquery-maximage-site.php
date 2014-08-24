@@ -39,12 +39,12 @@
 					
 					echo '<div class="input-container">';
 					echo '<a class="red" href="?page=jquery-maximage&action=delete-pic&delete='.$row->id.'">'.__( 'Delete', 'jquery-maximage' ).'</a>';
-					echo '<label>'.__( 'Picture', 'jquery-maximage' ).' #'.$row->id.'</label>';
+					echo '<label>'.__( 'Image', 'jquery-maximage' ).' #'.$row->id.'</label>';
 					echo '<input type="text" class="upload-input" placeholder="'.__( 'Image URL', 'jquery-maximage' ).'" name="path-'.$row->id.'" id="i'.$row->id.'" />';
 					echo '<button class="upload-button button-secondary" id="'.$row->id.'">'.__( 'Browse', 'jquery-maximage' ).'...</button>';
 					
 					if ( $row->path !== '' ) {
-						echo '<div class="current-pic"><p>'.__( 'Current picture', 'jquery-maximage' ).'</p><img src="'.$row->path.'" /></div>';
+						echo '<div class="current-pic"><p>'.__( 'Current Image', 'jquery-maximage' ).'</p><img src="'.$row->path.'" /></div>';
 					}
 					
 					echo '</div>';
@@ -58,7 +58,7 @@
 
 		?>
 		
-		<a class="red" href="?page=jquery-maximage&action=truncate-db"><?php _e( 'Reset database', 'jquery-maximage' ); ?></a>
+		<a class="red" href="?page=jquery-maximage&action=truncate-db"><?php _e( 'Delete all', 'jquery-maximage' ); ?></a>
 		<button type="submit" class="button-primary"><?php _e ( 'Save', 'jquery-maximage' ); ?></button>
 		
 	</form>
