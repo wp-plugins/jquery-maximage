@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jQuery Maximage v2.0.0\n"
+"Project-Id-Version: jQuery Maximage v2.0.3\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2014-08-15 15:57:01+0000\n"
+"PO-Revision-Date: 2014-08-28 13:03:00+0000\n"
 "Last-Translator: jonas <jonas.spaller@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Textdomain-Support: yes"
 
-#: jquery-maximage-main.php:114
+#: jquery-maximage-main.php:103
 #: jquery-maximage-site.php:3
 #@ jquery-maximage
 msgid "Background Slideshow"
@@ -31,12 +31,7 @@ msgstr "Hintergrund Slideshow"
 msgid " Options"
 msgstr "Optionen"
 
-#: jquery-maximage-site.php:42
-#@ jquery-maximage
-msgid "Picture"
-msgstr "Bild"
-
-#: jquery-maximage-site.php:63
+#: jquery-maximage-site.php:62
 #@ jquery-maximage
 msgid "Save"
 msgstr "Speichern"
@@ -46,7 +41,7 @@ msgstr "Speichern"
 msgid "Browse"
 msgstr "Durchsuchen"
 
-#: jquery-maximage-main.php:144
+#: jquery-maximage-main.php:133
 #@ jquery-maximage
 msgid "The Slideshow has been updated successfully"
 msgstr "Die Slideshow wurde erfolgreich aktualisiert"
@@ -61,11 +56,6 @@ msgstr "Neues Bild hinzufügen"
 msgid "Image URL"
 msgstr "URL des Bildes"
 
-#: jquery-maximage-site.php:47
-#@ jquery-maximage
-msgid "Current picture"
-msgstr "Aktuelles Bild"
-
 #: jquery-maximage-site.php:56
 #@ jquery-maximage
 msgid "There aren't any entries yet."
@@ -76,8 +66,18 @@ msgstr "Es sind noch keine Einträge vorhanden."
 msgid "Delete"
 msgstr "Löschen"
 
+#: jquery-maximage-site.php:42
+#@ jquery-maximage
+msgid "Image"
+msgstr "Bild"
+
+#: jquery-maximage-site.php:47
+#@ jquery-maximage
+msgid "Current Image"
+msgstr "Aktuelles Bild"
+
 #: jquery-maximage-site.php:61
 #@ jquery-maximage
-msgid "Reset database"
-msgstr "Datenbank zurücksetzen"
+msgid "Delete all"
+msgstr "Alle löschen"
 

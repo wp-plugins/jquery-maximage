@@ -3,7 +3,7 @@ Contributors: Ropaeh
 Donate link: 
 Tags: background, slideshow, design, simple, pictures, gallery, responsive, fullscreen, jquery, maximage
 Requires at least: 3.0.0
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -40,6 +40,14 @@ If you like the plugin please let me know, whether it's a rating or a direct mai
 There are no F.A.Q. yet.
 
 == Changelog ==
+
+== 2.0.4 ==
+
+Bugfix: updated german translation files
+Change: changed "picture" to "image"
+Change: changed "reset database" to "delete all"
+
+Also checked if the plugin will be compatible with WordPress 4.0. It is! :D
 
 = 2.0.3 =
 
