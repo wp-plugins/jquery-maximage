@@ -43,9 +43,9 @@ There are no F.A.Q. yet.
 
 == 2.0.4 ==
 
-Bugfix: updated german translation files
-Change: changed "picture" to "image"
-Change: changed "reset database" to "delete all"
+1. Bugfix: updated german translation files
+2. Change: changed "picture" to "image"
+3. Change: changed "reset database" to "delete all"
 
 Also checked if the plugin will be compatible with WordPress 4.0. It is! :D
 
