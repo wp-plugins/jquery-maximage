@@ -3,12 +3,12 @@ Contributors: Ropaeh
 Donate link: 
 Tags: background, slideshow, design, simple, pictures, gallery, responsive, fullscreen, jquery, maximage
 Requires at least: 3.0.0
-Tested up to: 4.1
+Tested up to: 4.2.2
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-jQuery Maximage is a lightweight and responsive fullscreen background slideshow.
+jQuery Maximage is a lightweight and responsive fullscreen background slideshow that focusses on simplicity.
 
 == Description ==
 
@@ -26,6 +26,10 @@ The work on this plugin will continue, but i will make sure to keep it simple.
 
 If you like the plugin please let me know, whether it's a rating or a direct mail to <a href="mailto:plugins@jonasspaller.de">plugins@jonasspaller.de</a> (:
 
+= Acknowledgements =
+
+A huge thanks to Adrijana from [Web Hosting Geeks](http://webhostinggeeks.com/) for translating the plugin to Serbo-Croatian language.
+
 == Installation ==
 
 1. Upload the plugin (via zip - file or directly from WordPress)
@@ -40,6 +44,10 @@ If you like the plugin please let me know, whether it's a rating or a direct mai
 There are no F.A.Q. yet.
 
 == Changelog ==
+
+== 2.0.5 ==
+
+Added Serbo-Croatian language - huge thanks to Adrijana from [Web Hosting Geeks](http://webhostinggeeks.com/) for your work!
 
 == 2.0.4 ==
 
