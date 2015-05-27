@@ -1,1 +1,0 @@
-jQuery(document).ready(function ($) { $('div#maximage').maximage(); });

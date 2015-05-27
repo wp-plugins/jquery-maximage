@@ -1,3 +1,13 @@
+#jqmi-tabs {
+	margin-bottom: 30px;
+}
+
+.jqmi-wrapper {
+	margin: 0 auto;
+	margin-top: 30px;
+	max-width: 740px;
+}
+
 label {
     display: block;
     margin-top: 15px;
@@ -14,7 +24,8 @@ label {
     height: 34px;
 }
 
-.input-container {
+.input-container,
+#jqmi-appearance {
 	background: #fff;
 	box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
 	margin: 0 auto;
@@ -49,4 +60,20 @@ a.red {
 
 a.red:hover {
 	color: #f00;
+}
+
+/* seetings */
+
+#jqmi-settings-form input,
+#jqmi-settings-form select {
+	width: 40%;
+}
+
+.settings-table {
+	width: 100%;
+}
+
+label.setting-label {
+	display: inline-block;
+	vertical-align: initial;
 }
