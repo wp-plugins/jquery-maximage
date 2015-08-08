@@ -3,7 +3,7 @@ Contributors: Ropaeh
 Donate link: 
 Tags: background, slideshow, design, simple, pictures, gallery, responsive, fullscreen, jquery, maximage
 Requires at least: 3.0.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
